@@ -45,6 +45,8 @@ Developed by: Aancy Aksharesha A RegisterNumber: 212225040003
 
 **RTL realization**
 ![WhatsApp Image 2026-03-12 at 2 09 02 PM](https://github.com/user-attachments/assets/d286f7d0-2c47-4f03-aafb-afee45b8b104)
+**TIMING Diagram**
+![WhatsApp Image 2026-03-12 at 2 09 01 PM (3)](https://github.com/user-attachments/assets/b2b99fe0-2d1e-41e8-a752-f8dc44bd6689)
 
 
 **Output:**
